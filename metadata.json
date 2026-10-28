@@ -1,0 +1,8 @@
+{
+  "name": "Ghotok Admin - Matrimony Moderation & Operations",
+  "description": "Comprehensive Bangladeshi matrimony admin dashboard for KYC & ID verification, bKash/Nagad payment queue, biodata moderation, assisted matchmaking Ghotok desk, safety audit, and live analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
